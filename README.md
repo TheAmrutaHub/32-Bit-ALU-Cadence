@@ -10,9 +10,9 @@ The design was created and simulated in **Cadence**, showcasing the working of c
 - Digital Design Concepts  
 
 ## 📂 Project Structure
-src/ → Verilog source code
+alu.v/ → Verilog source code
 
-testbench/ → Testbench code
+alutest.v/ → Testbench code
 
 screenshots/ → Simulation outputs & waveform
 
