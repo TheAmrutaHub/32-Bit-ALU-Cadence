@@ -11,7 +11,9 @@ The design was created and simulated in **Cadence**, showcasing the working of c
 
 ## 📂 Project Structure
 src/ → Verilog source code
+
 testbench/ → Testbench code
+
 screenshots/ → Simulation outputs & waveform
 
 ## 🔑 Features
